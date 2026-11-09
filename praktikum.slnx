@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="praktikum.vcxproj" Id="6bdf5c37-15ac-4ec6-93bb-09b9cb09bd7a" />
+</Solution>
